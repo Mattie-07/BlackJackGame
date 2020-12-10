@@ -1,0 +1,15 @@
+img{
+    height: 310px;
+    width: 250px;
+    padding-left: 45px;
+
+}
+.player-name{
+justify-content: top;
+align-items:center;
+color: white;
+font-family: cursive;
+display:flex;
+padding: 200px;
+}
+
