@@ -2,7 +2,22 @@ img{
     height: 310px;
     width: 250px;
     padding-left: 45px;
+}
 
+ body{
+    background-image: url("../images/anotherTable.jpg");
+    background-size:cover;
+    background-position: center;
+  }
+
+.player-name-text{
+    color:white;
+    font-size:22px;
+}
+
+.title-row{
+    flex-direction:column;
+    height:20rem;
 }
 .player-name{
 justify-content: top;
